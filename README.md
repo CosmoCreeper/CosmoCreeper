@@ -10,4 +10,3 @@ possible.
 #### Projects
 --------------------------------------------------------------------------------
 - [ ] Noted! (Task Management Software)
-- [ ] DeVe Launch (Launcher for Added Websites & Ez Search with DuckDuckGo)
