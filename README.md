@@ -1,5 +1,4 @@
 # About
---------------------------------------------------------------------------
 I'm working to make the future possible in a new revolutionary app that I
 call Noted! Together the future won't seem as dim. The future of electronics
 and digital software can be enhanced by the people, not Big Tech.
