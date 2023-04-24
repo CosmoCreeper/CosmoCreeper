@@ -9,5 +9,5 @@ make the future possible. Together we can start today.
 
 #### Projects
 --------------------------------------------------------------------------------
-- [ ] Noted! (Task Management Software)
+- [v0.0.3.4] Noted! (Task Management Software)
 - [ ] Motivated (Tracker)
