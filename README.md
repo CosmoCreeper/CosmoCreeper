@@ -9,5 +9,4 @@ make the future possible. Together we can start today.
 
 #### Projects
 --------------------------------------------------------------------------------
-- [v0.0.3.4] Noted! (Task Management Software)
-- [ ] Motivated (Tracker)
+- [ ] [Noted!](https://github.com/CosmoCreeper/Noted) (Task Management Software)
