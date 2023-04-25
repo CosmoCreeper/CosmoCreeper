@@ -26,8 +26,6 @@ Date Setup: Month/Day/Year
 
 ###### < v0.0.3.0 (Old)
 
-# Progress
+# Noted! | Progress
 
-- [ ] Noted!
------------------------------------
 ![60%](https://progress-bar.dev/60)
