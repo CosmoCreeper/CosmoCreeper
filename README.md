@@ -27,5 +27,7 @@ Date Setup: Month/Day/Year
 ###### < v0.0.3.0 (Old)
 
 # Noted! | Progress
-
 ![60%](https://progress-bar.dev/60)
+
+###### Experience the future, today. Visit our [site.](https://noted-kcf.w3spaces.com) to download.
+###### Want to contribute? Visit: [https://noted-kcf.w3spaces.com](https://noted-kcf.w3spaces.com)
