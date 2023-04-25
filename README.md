@@ -12,9 +12,16 @@ make the future possible. Together we can start today.
 - [ ] [Noted!](https://github.com/CosmoCreeper/Noted) (Task Management Software)
 
 # Noted! | Versions
+Date Setup: Month/Day/Year
 
-###### v0.0.3.4 (New)
+###### v0.0.3.4 (New) | 4/24/2023
 
---------------------
+###### v0.0.3.3 (New) | 4/23/2023
 
-###### v0.0.3.3 (New)
+###### v0.0.3.2 (Demo) | 4/15/2023
+
+###### v0.0.3.1 (Demo) | 4/11/2023
+
+###### v0.0.3.0 (Demo) | 3/29/2023
+
+##### < v0.0.3.0 (Old)
