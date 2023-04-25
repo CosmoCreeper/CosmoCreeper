@@ -1,11 +1,9 @@
 # About
 I'm working to make the future possible in a new revolutionary app that I
 call Noted! Together the future won't seem as dim. The future of electronics
-and digital software can be enhanced by the people, not Big Tech.
-We don't need to be as big as Microsoft, Google, AMD, Nvidia, or Apple to
-make the future possible. Together we can start today.
+and digital software can be enhanced by the people, today.
 
-*"Making the impossible, possible."*
+*"Making the impossible, possible." - [CosmoCreeper](https://github.com/CosmoCreeper)*
 
 #### Projects
 --------------------------------------------------------------------------------
@@ -31,3 +29,4 @@ Date Setup: Month/Day/Year
 
 ###### Experience the future, today. Visit our [site.](https://noted-kcf.w3spaces.com) to download.
 ###### Want to contribute? Visit: [https://noted-kcf.w3spaces.com](https://noted-kcf.w3spaces.com)
+###### The future is in your hands. Visit our site today to 
