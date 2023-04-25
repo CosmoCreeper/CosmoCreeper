@@ -10,3 +10,7 @@ make the future possible. Together we can start today.
 #### Projects
 --------------------------------------------------------------------------------
 - [ ] [Noted!](https://github.com/CosmoCreeper/Noted) (Task Management Software)
+
+# Noted! | Versions
+
+###### v0.0.3.4 (New)
