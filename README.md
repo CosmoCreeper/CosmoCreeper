@@ -1,31 +1,33 @@
 # About
-I'm working to make the future possible in a new revolutionary app that I
-call Noted! Together the future won't seem as dim. The future of electronics
-and digital software can be enhanced by the people, today.
+I'm making a program that takes notes and my goal is to make it as simplistic as possible and try using Markdown.
 
-*"Making the impossible, possible." - [CosmoCreeper](https://github.com/CosmoCreeper)*
+| **Info**
+| The project is WIP and not at its best.
+
+*"Making the impossible, possible." - [CosmoCreeper](https://solproj.w3spaces.com)*
 
 #### Projects
 --------------------------------------------------------------------------------
-- [ ] [Noted!](https://github.com/CosmoCreeper/Noted) (Task Management Software)
+- [ ] [Noted!](https://solproj.w3spaces.com) (Task Management Software)
+- [ ] [Database Tauri App Test](https://solproj.w3spaces.com)
 
 # Noted! | Versions
 Date Setup: Month/Day/Year
 
-###### v0.0.3.4 (New) | 4/24/2023
+###### v0.3.5 (New) | 4/27/2023
 
-###### v0.0.3.3 (New) | 4/23/2023
+###### v0.3.4 (New) | 4/24/2023
 
-###### v0.0.3.2 (Demo) | 4/15/2023
+###### v0.3.3 (Demo) | 4/23/2023
 
-###### v0.0.3.1 (Demo) | 4/11/2023
+###### v0.3.2 (Demo) | 4/15/2023
 
-###### v0.0.3.0 (Demo) | 3/29/2023
+###### v0.3.1 (Demo) | 4/11/2023
 
-###### < v0.0.3.0 (Old)
+###### < v0.3.1 (Old)
 
 # Noted! | Progress
-###### v1 Release
+###### v0.3.5 Release
 ![100%](https://progress-bar.dev/100)
 
 ###### Experience the future, today. Visit our [site.](https://noted-kcf.w3spaces.com) to download.
