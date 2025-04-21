@@ -3,8 +3,8 @@ I have no idea what to put here...
 
 My repositories:
 - **Noted**
-- Project Bagels.
+- The FBC Sermon Search
 - Tools
-- TimeDated
+- trainable-guesser
 
 My portfolio: https://cosmocreeper.github.io/bagels
