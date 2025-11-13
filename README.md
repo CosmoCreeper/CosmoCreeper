@@ -1,13 +1,9 @@
-# CosmoCreeper
-Yet another useless vibe coder...\
-Just kidding, but I am just another useless coder!
+<p align="center">
+  <img width="500" height="72.75021025" alt="cosmo" src="https://github.com/user-attachments/assets/c379999e-2785-4337-9aa8-c85fad0aa20f" />
+</p>
 
-My repositories:
-- [**Sine**](https://github.com/CosmoCreeper/Sine)
-- [Zen-Themes](https://github.com/CosmoCreeper/Zen-Themes) (SuperPins, Super URL Bar, and more)
-- [Noted](https://github.com/CosmoCreeper/Noted)
-- [The FBC Sermon Search](https://github.com/CosmoCreeper/fbcss)
-- [Tools](https://github.com/CosmoCreeper/Tools)
-- [trainable-guesser](https://github.com/CosmoCreeper/trainable-guesser)
+<h3 align="center">Bringing intuitive designs to life.</h3>
 
-My portfolio: https://cosmocreeper.github.io/bagels
+<p align="center">
+  As a young developer, I create open-source projects that are transparent and care about what the community thinks.
+</p>
