@@ -6,9 +6,4 @@
   </picture>
 </p>
 
-
 <h3 align="center">Design-minded development that actually f("unctions").</h3>
-
-<p align="center">
-  
-</p>
