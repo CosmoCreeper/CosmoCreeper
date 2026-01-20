@@ -12,6 +12,6 @@
   <a href="https://discord.gg/umuBw7NUq9"><img src="https://img.shields.io/badge/chat-discord-3197ed.svg?style=plastic&labelColor=lightgray"/></a>
   
   <p>---> <a href="https://cosmocreeper.github.io/">more about me</a> <---</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=CosmoCreeper&theme=dark&show_icons=true"/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CosmoCreeper&theme=dark&show_icons=true"/></a>
 </div>
 
