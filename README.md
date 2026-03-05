@@ -12,6 +12,14 @@
   <a href="https://discord.gg/umuBw7NUq9"><img src="https://img.shields.io/badge/chat-discord-3197ed.svg?style=plastic&labelColor=lightgray"/></a>
   
   <p>---> <a href="https://cosmocreeper.github.io/">more about me</a> <---</p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CosmoCreeper&theme=dark&show_icons=true"/></a>
-</div>
 
+  <picture>
+    <img width="467" height="195" src="profile/stats.svg"/>
+  </picture>
+  <picture>
+    <img width="10" height="195" src="profile/margin.svg"/>
+  </picture>
+  <picture>
+    <img width="308" height="195" src="profile/top-langs.svg"/>
+  </picture>
+</div>
