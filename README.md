@@ -14,12 +14,7 @@
   <p>---> <a href="https://cosmocreeper.github.io/">more about me</a> <---</p>
 
   <picture>
-    <img width="467" height="195" src="profile/stats.svg"/>
-  </picture>
-  <picture>
-    <img width="10" height="195" src="profile/margin.svg"/>
-  </picture>
-  <picture>
+    <img width="467" height="195" src="profile/stats.svg" hspace="10"/>
     <img width="308" height="195" src="profile/top-langs.svg"/>
   </picture>
 </div>
