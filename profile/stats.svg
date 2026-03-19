@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">CosmoCreeper's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1222, Total Commits  (last year) : 5470, Total PRs: 169, Total Issues: 56, Contributed to (last year): 66</desc>
+        <title id="titleId">CosmoCreeper's GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 1223, Total Commits  (last year) : 5610, Total PRs: 174, Total Issues: 56, Contributed to (last year): 69</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 31.56353052244905;
+        stroke-dashoffset: 31.156774537191687;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A+
         </text>
       
         </g>
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >5.5k</text>
+      >5.6k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >169</text>
+      >174</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >66</text>
+      >69</text>
     </g>
   </g>
     </svg>
