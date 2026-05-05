@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">CosmoCreeper's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1322, Total Commits  (last year) : 12485, Total PRs: 192, Total Issues: 65, Contributed to (last year): 72</desc>
+        <desc id="descId">Total Stars Earned: 1327, Total Commits  (last year) : 12548, Total PRs: 192, Total Issues: 65, Contributed to (last year): 72</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 28.53496749437756;
+        stroke-dashoffset: 28.4861447557616;
       }
     }
   
